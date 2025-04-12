@@ -41,7 +41,7 @@
 > “Lo que más disfruto de programar es convertir pensamientos en experiencias. Crear algo desde cero y verlo funcionar no solo es gratificante… es adictivo.” ✨
 
 
-
+---
 
 <div id="badges" align="center">
   <h3>🔗 Conecta conmigo</h3>
