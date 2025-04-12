@@ -37,19 +37,18 @@
 - 🎬 **Animaciones** fluidas que captan la atención.
 - 💻 Desarrollo de **aplicaciones web completas**.
 
----
 
 > “Lo que más disfruto de programar es convertir pensamientos en experiencias. Crear algo desde cero y verlo funcionar no solo es gratificante… es adictivo.” ✨
 
----
 
-### 🔗 Conecta conmigo
+
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yanguadotdev/">
+  <h3>🔗 Conecta conmigo</h3>
+  <a href="https://www.linkedin.com/in/yanguadotdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/syangua07">
+  <a href="https://x.com/syangua07" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
