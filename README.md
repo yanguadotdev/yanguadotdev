@@ -1,16 +1,26 @@
-<div align="center">
-  <div id="header" align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-  <h1 style="font-size:2.5rem; font-weight:bold; margin-bottom:0.2rem;">¡Hola! Soy Samir 👋</h1>
-  <p style="font-size:1.2rem; color:#4B5563;">Diseño y construyo interfaces que no solo funcionan, sino que cuentan una historia y capturan la atención del usuario</p>
-  <p style="font-size:1.1rem; color:#6B7280;">Mi pasión es transformar ideas en experiencias visuales que conecten.</p>
-</div>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40"/>
+
+# Welcome, I'm Samir Yangua Ruiz 👋
+
+## About Me
+
+I'm truly passionate about everything tech-related 🤖 and love diving into programming 👨‍💻 and web development.
+
+🌿 I'm always striving to grow and improve each day.
+<br />
+⌛ I’m into self-growth and staying productive.
+<br />
+🫂 I value teamwork and enjoy collaborating with others.
+<br />
+
+### Web Developer
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yanguadotdev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
 
-### 🚀 Tecnologías que uso
+### 🚀 Technologies I use
 
-<div style="display: flex; justify-content: center;" align="center">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
