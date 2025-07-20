@@ -38,27 +38,21 @@ I'm truly passionate about everything tech-related 🤖 and love diving into pro
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
 
-### 🎯 En qué me especializo
+### 🎯 What I specialize in
 
-- ✨ **Landing Pages** con diseño visual atractivo y enfocado en conversión.
-- 🧩 **Portfolios** para creativos, desarrolladores y freelancers.
-- 📚 **Sitios informativos** modernos, accesibles y rápidos.
-- ♻️ **Rediseño** y optimización de sitios existentes.
-- 🎬 **Animaciones** fluidas que captan la atención.
-- 💻 Desarrollo de **aplicaciones web completas**.
+- ✨ **Landing Pages** with eye-catching design focused on conversion.
+- 🧩 **Portfolios** for creatives, developers, and freelancers.
+- 📚 Modern, accessible, and fast informational **websites**.
+- ♻️ **Redesign** and optimization of existing websites.
+- 🎬  Smooth **animations** that grab attention.
 
 
-> “Lo que más disfruto de programar es convertir pensamientos en experiencias. Crear algo desde cero y verlo funcionar no solo es gratificante… es adictivo.” ✨
+> “What I enjoy most about programming is turning thoughts into experiences. Creating something from scratch and seeing it work isn’t just rewarding… it’s addictive.” ✨
 
 
 ---
 
-<div id="badges" align="center">
-  <h3>🔗 Conecta conmigo</h3>
-  <a href="https://www.linkedin.com/in/yanguadotdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/syangua07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+### 🔗 Contact
+[![Website](https://img.shields.io/badge/Website-yanguadotdev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://yangua.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@yanguadotdev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yanguadotdev/)
+
